@@ -1,2 +1,2 @@
 # my_resume
-This contains my resume.
+This repository contains my resume.
